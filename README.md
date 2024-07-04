@@ -24,3 +24,4 @@ npm run deploy
 ## Browser Compatibility
 
 The game is compatible with the latest versions of Chrome, Safari, and Firefox.
+"# find-the-pair" 
