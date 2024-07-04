@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-the-pair/static/css/main.3978312f.css",
+    "main.js": "/find-the-pair/static/js/main.b9457f3b.js",
+    "static/js/488.38e4b3be.chunk.js": "/find-the-pair/static/js/488.38e4b3be.chunk.js",
+    "index.html": "/find-the-pair/index.html",
+    "main.3978312f.css.map": "/find-the-pair/static/css/main.3978312f.css.map",
+    "main.b9457f3b.js.map": "/find-the-pair/static/js/main.b9457f3b.js.map",
+    "488.38e4b3be.chunk.js.map": "/find-the-pair/static/js/488.38e4b3be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3978312f.css",
+    "static/js/main.b9457f3b.js"
+  ]
+}
