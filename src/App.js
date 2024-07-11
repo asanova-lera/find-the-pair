@@ -3,7 +3,7 @@ import Board from './components/Board';
 
 const App = () => {
   return (
-    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+    <div className="min-h-screen bg-gradient flex items-center justify-center">
       <Board />
     </div>
   );

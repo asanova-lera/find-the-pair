@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Tile = ({ color, isFlipped, onClick }) => {
+const Tile = ({ image, isFlipped, onClick }) => {
     return (
         <div
-            className={`w-20 h-20 ${isFlipped ? color : 'bg-gray-300'} flex items-center justify-center cursor-pointer`}
             onClick={onClick}
+            className={`w-16 h-16 ${isFlipped ? '' : 'bg-gray-300'} flex items-center justify-center cursor-pointer`}
         >
-            {isFlipped ? <div className="w-16 h-16 rounded bg-white"></div> : null}
+            {isFlipped ? <img src={image} alt="tile" className="w-full h-full object-cover" /> : ''}
         </div>
     );
 };
